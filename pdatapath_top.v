@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Engineers: Bradley Perritt (perritt.b@northeastern.edu),
-//           Majid Sabbagh (sabbagh.m@husky.neu.edu)
+// Engineer: Majid Sabbagh (sabbagh.m@husky.neu.edu)
+// Modified by: Bradley Perritt (perritt.b@northeastern.edu)
 //////////////////////////////////////////////////////////////////////////////////
 module pdatapath_top(
 		input wire clk,				// General clock input
